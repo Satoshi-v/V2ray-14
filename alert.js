@@ -1,0 +1,1 @@
+alert("PRUEBAS DE ALERTA WEBCONT");
